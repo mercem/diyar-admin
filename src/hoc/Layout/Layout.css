@@ -1,0 +1,10 @@
+.SideMenuItem {
+  color: white;
+  flex-direction: column !important;
+  align-items: center !important;
+  font-size: large;
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+  border-bottom: 1px solid white;
+}
+ 
